@@ -1,6 +1,6 @@
 :root {
     --primary: #5bb6a7;
-    --bg: #989595;
+    --bg: #0e5151;
 }
 
 * {
@@ -27,7 +27,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 1.4rem 7%;
-    background-color: rgba(117, 112, 112, 0.8);
+    background-color: rgba(49, 95, 123, 0.8);
     border-bottom: 1px solid #513c28;
     position: fixed;
     top: 0;
